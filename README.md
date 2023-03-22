@@ -1,6 +1,6 @@
 
-#Stratagem Hackathon
-#Medical Care App
+# Stratagem Hackathon
+# Medical Care App
 
 # Readme.md
 > Why do I have a folder named ".expo" in my project?
